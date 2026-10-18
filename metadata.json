@@ -1,0 +1,6 @@
+{
+  "name": "StreakUp - Habit Tracker",
+  "description": "Fast, accessible mobile habit tracker designed for 10-second daily check-ins, high-contrast readability, and one-handed reachability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
